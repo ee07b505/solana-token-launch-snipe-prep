@@ -1,0 +1,6 @@
+keys/
+*.json.bak
+.env
+node_modules/
+logs/
+**/secret*
